@@ -1,0 +1,27 @@
+{
+  "name": "node_examples",
+  "version": "1.0.0",
+  "description": "Examples",
+  "main": "helloworld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irahavoi/webOfThings.git"
+  },
+  "keywords": [
+    "web",
+    "of",
+    "things"
+  ],
+  "author": "Illia Rahavoi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irahavoi/webOfThings/issues"
+  },
+  "homepage": "https://github.com/irahavoi/webOfThings#readme",
+  "dependencies": {
+    "request": "^2.74.0"
+  }
+}
