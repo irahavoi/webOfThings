@@ -1,0 +1,6 @@
+Temperature: 31 Light: 85
+Temperature: 17 Light: 64
+Temperature: 4 Light: 33
+Temperature: 27 Light: 62
+Temperature: 18 Light: 21
+Temperature: 28 Light: 12
